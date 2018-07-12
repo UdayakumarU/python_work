@@ -1,4 +1,3 @@
-#vowel or consonant
 n = input()
 n = n.lower()
 vowel =['a','e','i','o','u']
@@ -8,4 +7,4 @@ if n in vowel:
 elif n in con:
 	print("Consonant")
 else :
-	print("Invalid")
+    print("Invalid")
